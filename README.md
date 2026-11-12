@@ -6,11 +6,11 @@
 
 findling ist ein Inventar für Werkstatt, Garage, Keller, Vorrat und Gartenhaus. Es läuft als App in Home Assistant, vollständig im eigenen Heimnetz. Ein Foto vom Schrank, ein Tipp auf jede Schublade, ein Foto vom Inhalt: Danach beantwortet die Suche die Frage „Habe ich es noch, und wo liegt es?“.
 
-## Ein Netz aus Orten
+## Ein Netz aus Orten (Beispiel)
 
 ![Karte der Standorte in findling: drei Standorte mit zehn Räumen als verbundene Knotenpunkte](docs/findling-standorte.png)
 
-Zeug liegt selten an einem Ort. findling verbindet alle Lagerorte zu einem Netz: das Zuhause mit Werkstatt, Keller und Garage, den Garten mit Gartenhaus und Carport, dazu das Lager bei den Eltern oder die Ferienwohnung. Jeder Raum ist ein Knotenpunkt, seine Größe zeigt, wie viel dort liegt, und ein Tipp darauf führt hinein. Die Suche geht über alle Standorte zugleich.
+Die Dinge liegen selten an einem Ort. findling verbindet alle Lagerorte zu einem Netz: das Zuhause mit Werkstatt, Keller und Garage, den Garten mit Gartenhaus und Carport, dazu das Lager bei den Eltern oder die Ferienwohnung. Jeder Raum ist ein Knotenpunkt, seine Größe zeigt, wie viel dort liegt, und ein Tipp darauf führt hinein. Die Suche geht über alle Standorte zugleich.
 
 ## In zwei Minuten erklärt
 
