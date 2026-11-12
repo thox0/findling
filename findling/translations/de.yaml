@@ -1,0 +1,22 @@
+configuration:
+  language:
+    name: "Sprache"
+    description: "Sprache der App: Deutsch (de) oder Englisch (en). Gilt nach einem Neustart der App, auch für die Erkennung."
+  anthropic_api_key:
+    name: "API-Schlüssel (freiwillig)"
+    description: "Für die automatische Erkennung per Claude. Jeder Abruf kostet Guthaben und läuft nur auf deinen Tipp. Ohne Schlüssel bleibt die kostenlose Übergabe an deinen Chat."
+  qr_base_url:
+    name: "Adresse von Home Assistant"
+    description: "So erreicht dein Telefon Home Assistant im Heimnetz. Daraus entstehen die QR-Codes. Lege sie fest, bevor du Etiketten druckst."
+  direct_access:
+    name: "Direktzugang"
+    description: "Nur nötig für die Kopie auf dem Telefon für unterwegs. Trag dann unten auch die Ports ein. Gib sie niemals im Router frei."
+  pin:
+    name: "PIN für den Direktzugang"
+    description: "Mindestens 8 Zeichen. Ohne passende PIN bleibt der Direktzugang aus."
+  hostname:
+    name: "Rechnername für den Direktzugang"
+    description: "Unter diesem Namen erreicht das Telefon den Server. Andere Namen weist die App ab."
+network:
+  8787/tcp: "Nur Zertifikat und Weiterleitung auf HTTPS"
+  8788/tcp: "Direktzugang per HTTPS mit PIN"

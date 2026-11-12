@@ -1,0 +1,22 @@
+configuration:
+  language:
+    name: "Language"
+    description: "Language of the app: German (de) or English (en). Takes effect after restarting the app, recognition included."
+  anthropic_api_key:
+    name: "API key (optional)"
+    description: "For automatic recognition with Claude. Every call costs credit and only runs when you tap. Without a key, the free handover to your own chat remains."
+  qr_base_url:
+    name: "Home Assistant address"
+    description: "How your phone reaches Home Assistant on your home network. The QR codes are made from it. Set it before printing labels."
+  direct_access:
+    name: "Direct access"
+    description: "Only needed for the copy on your phone for on the go. Then also enter the ports below. Never open them in your router."
+  pin:
+    name: "PIN for direct access"
+    description: "At least 8 characters. Without a matching PIN, direct access stays off."
+  hostname:
+    name: "Host name for direct access"
+    description: "The name your phone uses to reach the server. The app rejects other names."
+network:
+  8787/tcp: "Certificate and redirect to HTTPS only"
+  8788/tcp: "Direct access via HTTPS with PIN"
