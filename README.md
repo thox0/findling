@@ -16,7 +16,7 @@ Die Dinge liegen selten an einem Ort. findling verbindet alle Lagerorte zu einem
 
 ## In zwei Minuten erklärt
 
-[![Erklärvideo zu findling: Schrank fotografieren, Schubladen antippen, Inhalte erfassen](docs/findling-video.jpg)](https://videos.files.wordpress.com/Tqn4iL8w/findling.mp4)
+[![Erklärvideo zu findling: Logo, Name und der Claim „Dein Zeug. Dein System.“](docs/findling-video.jpg)](https://videos.files.wordpress.com/Tqn4iL8w/findling.mp4)
 
 Ein Klick auf das Bild öffnet das Erklärvideo (rund zwei Minuten).
 

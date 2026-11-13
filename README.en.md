@@ -18,7 +18,7 @@ Things rarely live in one place. findling connects all storage places into one n
 
 ## Explained in two minutes
 
-[![Explainer video for findling: photograph the cabinet, tap the drawers, record the contents](docs/findling-video.jpg)](https://videos.files.wordpress.com/Tqn4iL8w/findling.mp4)
+[![Explainer video for findling: logo, name and the claim “Dein Zeug. Dein System.”](docs/findling-video.jpg)](https://videos.files.wordpress.com/Tqn4iL8w/findling.mp4)
 
 A click on the image opens the explainer video (about two minutes, in German).
 
