@@ -37,6 +37,10 @@ Die vollständige Liste steht in [FEATURES.md](FEATURES.md).
 - Daten verlassen das Heimnetz nur in zwei benannten Fällen: bei einer ausdrücklich ausgelösten Bilderkennung mit eigenem API-Schlüssel und beim bewussten Teilen einer Datei. Ohne Schlüssel gibt es keine Verbindung nach außen.
 - Der API-Schlüssel und die PIN stehen nur in der Konfiguration der App und sind nie Teil einer Sicherung.
 
+## Dokumentation
+
+Das vollständige Handbuch steht auf jungkonzept.de: [findling Dokumentation](https://jungkonzept.de/findling-dokumentation/). Es führt von der Einrichtung über Erfassen, Suchen und Etiketten bis zu Sicherungen und häufigen Fragen.
+
 ## Installation
 
 ![Installation von findling in Home Assistant](docs/findling-installation.gif)
@@ -50,7 +54,7 @@ Voraussetzung ist Home Assistant OS (oder Supervised) auf `aarch64` oder `amd64`
 
 Ohne Repository geht es auch: den Ordner `findling` über die Samba-Freigabe nach `local_apps` (früher `addons`) kopieren, **Auf Updates prüfen** wählen und unter **Lokale Apps** installieren.
 
-Einstellungen, Sicherungen und der Scanner sind in [findling/DOCS.md](findling/DOCS.md) beschrieben.
+Einstellungen, Sicherungen und der Scanner sind in [findling/DOCS.md](findling/DOCS.md) beschrieben. Alles Weitere steht in der [Dokumentation](https://jungkonzept.de/findling-dokumentation/).
 
 ## Aufbau
 
