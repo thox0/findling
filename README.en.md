@@ -51,6 +51,10 @@ The full manual is on jungkonzept.de: [findling documentation](https://jungkonze
 
 You need Home Assistant OS (or Supervised) on `aarch64` or `amd64`.
 
+[![Add repository to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fthox0%2Ffindling)
+
+The button opens your own Home Assistant and fills in the address of this repository. Then continue with step 2. By hand it works like this:
+
 1. In Home Assistant open **Settings › Apps › Install app**, choose **Repositories** in the menu at the top right and add the address of this repository.
 2. Open **findling** and choose **Install**. The server builds the app itself, which takes a few minutes.
 3. On the **Configuration** tab enter the address your phone uses to reach Home Assistant on your home network. It goes into the QR codes. Set the language to `en` for the English interface.

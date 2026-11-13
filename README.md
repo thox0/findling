@@ -49,6 +49,10 @@ Das vollständige Handbuch steht auf jungkonzept.de: [findling Dokumentation](ht
 
 Voraussetzung ist Home Assistant OS (oder Supervised) auf `aarch64` oder `amd64`.
 
+[![Repository in Home Assistant hinzufügen](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fthox0%2Ffindling)
+
+Der Knopf öffnet das eigene Home Assistant und trägt die Adresse dieses Repositorys ein. Danach geht es bei Schritt 2 weiter. Von Hand geht es so:
+
 1. In Home Assistant **Einstellungen › Apps › App installieren** öffnen, im Menü oben rechts **Repositories** wählen und die Adresse dieses Repositorys hinzufügen.
 2. **findling** öffnen und **Installieren** wählen. Der Server baut die App selbst, das dauert einige Minuten.
 3. Im Reiter **Konfiguration** die Adresse eintragen, unter der das Telefon Home Assistant im Heimnetz erreicht. Sie landet in den QR-Codes.
