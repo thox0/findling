@@ -1,5 +1,7 @@
 # findling
 
+**Deutsch** · [English](README.en.md)
+
 ![findling: Dein Zeug. Dein System. Hab ich. Weiß ich. Find ich.](docs/findling.png)
 
 **Dein Zeug. Dein System.** Hab ich. Weiß ich. Find ich.
