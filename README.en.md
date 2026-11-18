@@ -8,6 +8,8 @@
 
 findling is an inventory for workshop, garage, basement, pantry and garden shed. It runs as an app in Home Assistant, entirely on your own home network. A photo of the cabinet, a tap on every drawer, a photo of the contents: after that the search answers the question “Do I still have it, and where is it?”.
 
+findling at a glance: **[findling.jungkonzept.de](https://findling.jungkonzept.de/en/)**
+
 The app's interface is available in German and English. The screenshots and the video show the German version.
 
 ## A network of places (example)

@@ -8,6 +8,8 @@
 
 findling ist ein Inventar für Werkstatt, Garage, Keller, Vorrat und Gartenhaus. Es läuft als App in Home Assistant, vollständig im eigenen Heimnetz. Ein Foto vom Schrank, ein Tipp auf jede Schublade, ein Foto vom Inhalt: Danach beantwortet die Suche die Frage „Habe ich es noch, und wo liegt es?“.
 
+findling auf einen Blick: **[findling.jungkonzept.de](https://findling.jungkonzept.de/)**
+
 ## Ein Netz aus Orten (Beispiel)
 
 ![Karte der Standorte in findling: drei Standorte mit zehn Räumen als verbundene Knotenpunkte](docs/findling-standorte.png)
